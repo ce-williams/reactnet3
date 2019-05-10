@@ -10,17 +10,21 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <h1>Alec if you are seeing this, CD works B)</h1>
+
+
         <h2>Version 3 Manual test</h2>
-          <ul>
+          <ol>
             <li>- changes made in files</li>
             <li>- save files</li>
             <li>- rebuild (yarn build)</li>
             <li>- deploy (netlify deploy --prod)</li>
             <li>- ./build</li>
-          </ul>
+          </ol>
         
         <h2>Continious Deployment Setup</h2>
-          <ul>
+          <ol>
             <li>save files</li>
             <li>create repo</li>
             <li>git init (cl)</li>
@@ -35,8 +39,8 @@ function App() {
             <li>Set "publish directory" to ./build</li>
             <li>Click "deploy site"</li>
             <li>navigate to repo > git add . > git commit -m"connected to netlify" > git push</li>
-            <li></li>
-          </ul>
+            <li>check netlify for deployment status</li>
+          </ol>
         <a
           className="App-link"
           href="https://reactjs.org"
