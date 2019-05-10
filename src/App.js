@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <h1>Alec if you are seeing this, CD works B)</h1>
+        <h1>Alec if you are seeing this, CD works 😎</h1>
 
 
         <h2>Version 3 Manual test</h2>
